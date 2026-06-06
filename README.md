@@ -9,3 +9,15 @@ Recommends an Extreme Demon (a very hard level) for Geometry Dash players.
 - Searches the AREDL.net API to find all the extreme demons
 - Searches some other website to find skillset of the demons
 - Uses the skillsets and the users' needs to recommend 3-5 extreme demons to do
+
+
+### (For my own reference) Questions
+
+Slider: what is your hardest
+Form: how many attempts did it take
+Selection: What is your skillset
+Slider: Are you going for a new hardest?
+Selection: do you want to go for a simular or different skillset
+Slider: Length Preference
+favourite gamemode
+sections one wants to improve
